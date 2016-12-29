@@ -1,0 +1,5 @@
+repo: 25792bef6506dc7d37f5a758761427950e123c60
+node: 00304b2be302c067b93fa6368d5636ea534ee4f2
+branch: SDL-1.2
+latesttag: release-1.2.8
+latesttagdistance: 7
